@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Proyectos de Matemática y de Programación Funcional en GAP'
+project = 'Proyectos de Matemática y de Programación'
 copyright = '2021, Ferreira, Juan David'
 author = 'Ferreira, Juan David'
 
